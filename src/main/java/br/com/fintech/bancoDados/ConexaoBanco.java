@@ -1,4 +1,4 @@
-package br.com.fintech.BancoDados;
+package br.com.fintech.bancoDados;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

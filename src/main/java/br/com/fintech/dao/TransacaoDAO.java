@@ -1,6 +1,6 @@
 package br.com.fintech.dao;
 
-import br.com.fintech.BancoDados.ConexaoBanco;
+import br.com.fintech.bancoDados.ConexaoBanco;
 import br.com.fintech.model.Transacao;
 
 import java.sql.*;

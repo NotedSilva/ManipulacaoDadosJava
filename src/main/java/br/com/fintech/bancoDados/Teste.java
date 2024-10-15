@@ -1,4 +1,4 @@
-package br.com.fintech.BancoDados;
+package br.com.fintech.bancoDados;
 
 import br.com.fintech.dao.ClienteDAO;
 import br.com.fintech.dao.ContaDAO;
